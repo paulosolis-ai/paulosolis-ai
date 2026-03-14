@@ -28,5 +28,4 @@ Currently, I'm deeply involved in Artificial Intelligence, actively learning and
 - ✅ ITIL Foundation Level
 - ✅ KCS Foundation
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/paulo-solis)
+
